@@ -1,6 +1,6 @@
-# Switcher Dark
+# VS Code Material Theme Template 
 
-A dark theme for Switcher development in VS Code.
+Quickly create VS Code themes using the [Material Theme Builder](https://material-foundation.github.io/material-theme-builder/)
 
 ## Installation and Usage
 
