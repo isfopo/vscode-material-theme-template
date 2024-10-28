@@ -2,7 +2,7 @@
   "name": "stone-theme-vscode",
   "displayName": "Stone Theme",
   "description": "An earthy dark theme",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "publisher": "isfopo",
   "license": "ISC",
   "engines": {
