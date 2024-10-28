@@ -1,0 +1,4 @@
+node_modules
+/dist
+stone-theme-vscode-*.vsix
+.DS_Store
